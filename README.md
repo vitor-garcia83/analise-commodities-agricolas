@@ -27,6 +27,7 @@ Os dados brutos do IBGE apresentavam desafios comuns em dados reais:
 Através da análise, foi possível identificar:
 - O município de **Sorriso - MT** como líder absoluto em valor de produção, superando significativamente os demais municípios do Top 10.
 - Uma visão clara da concentração de riqueza agrícola em regiões específicas do estado.
+![Gráfico de Produção de Soja](img/grafico_producao.png)
 
 ## 🚀 Como Executar o Projeto
 
